@@ -46,8 +46,8 @@ android {
         applicationId "com.gh4a"
         multiDexEnabled true
 
-        buildConfigField 'String', 'CLIENT_ID', ClientId
-        buildConfigField 'String', 'CLIENT_SECRET', ClientSecret
+        buildConfigField 'String', 'CLIENT_ID', 'Iv1.23f232462d6599fe'
+        buildConfigField 'String', 'CLIENT_SECRET', '462eccc47a40e25e3c55c951d07abe074ab58662'
     }
 
     buildTypes {
